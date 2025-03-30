@@ -2,7 +2,7 @@
   parent: BaseFlag
   id: NMFlagAnarhy
   name: Флаг Анархии
-  description: Флаг тех, кто любит свободу. Анархия - мать порядка
+  description: Флаг тех, кто любит свободу. Анархия - мать порядка.
   components:
   - type: Sprite
     sprite: _Nedometro2033/Entities/Structures/Decoration/flags.rsi
@@ -12,7 +12,7 @@
   parent: BaseFlag
   id: NMFlagVDNH
   name: Флаг ВДНХ
-  description: Федеративное государство между торговым уклоном в северной части Московского метрополитена
+  description: Федеративное государство между торговым уклоном в северной части Московского метрополитена.
   components:
   - type: Sprite
     sprite: _Nedometro2033/Entities/Structures/Decoration/flags.rsi
@@ -22,8 +22,98 @@
   parent: BaseFlag
   id: NMFlagReich
   name: Флаг Рейха
-  description: националистическое государство Московского метрополитена, их лозунгом является «МЕТРО — ДЛЯ РУССКИХ!»
+  description: Националистическое государство Московского метрополитена, Девиз - «МЕТРО — ДЛЯ РУССКИХ!»
   components:
   - type: Sprite
     sprite: _Nedometro2033/Entities/Structures/Decoration/flags.rsi
     state: Reich_flag
+
+- type: entity
+  parent: BaseFlag
+  id: NMFlagVDNH2
+  name: Флаг ВДНХ
+  description: Федеративное государство между торговым уклоном в северной части Московского метрополитена.
+  components:
+  - type: Sprite
+    sprite: _Nedometro2033/Entities/Structures/Decoration/flags.rsi
+    state: VDNH2_flag
+
+- type: entity
+  parent: BaseFlag
+  id: NMFlagSpart
+  name: Флаг Спарты
+  description: Военный орден в постапокалиптической России. Девиз - «Если не мы, то кто?»
+  components:
+  - type: Sprite
+    sprite: _Nedometro2033/Entities/Structures/Decoration/flags.rsi
+    state: Sparta_flag
+
+- type: entity
+  parent: BaseFlag
+  id: NMFlagRedline
+  name: Флаг Красной Линии
+  description: Социалистическое государство Московского метрополитена.
+  components:
+  - type: Sprite
+    sprite: _Nedometro2033/Entities/Structures/Decoration/flags.rsi
+    state: Redline_flag
+
+- type: entity
+  parent: BaseFlag
+  id: NMFlagRedline2
+  name: Флаг Красной Линии
+  description: Социалистическое государство Московского метрополитена.
+  components:
+  - type: Sprite
+    sprite: _Nedometro2033/Entities/Structures/Decoration/flags.rsi
+    state: Redline2_flag
+
+- type: entity
+  parent: BaseFlag
+  id: NMFlagGulaypole
+  name: Флаг Гуляй-Поле
+  description: Смесь Анархистов и Коммунизма. Девиз - «Воля или смерть!»
+  components:
+  - type: Sprite
+    sprite: _Nedometro2033/Entities/Structures/Decoration/flags.rsi
+    state: Gulaypole_flag
+
+- type: entity
+  parent: BaseFlag
+  id: NMFlagBauminskiyAlians
+  name: Флаг Бауманского Альянса
+  description: Альянс является примером технократии. Управление сосредоточено в руках ученых, инженеров и техников.
+  components:
+  - type: Sprite
+    sprite: _Nedometro2033/Entities/Structures/Decoration/flags.rsi
+    state: BauminskiyAlians_flag
+
+- type: entity
+  parent: BaseFlag
+  id: NMFlagHanza
+  name: Флаг Ганзы
+  description: Содружество станций Кольцевой линии.
+  components:
+  - type: Sprite
+    sprite: _Nedometro2033/Entities/Structures/Decoration/flags.rsi
+    state: Hanza_flag
+
+- type: entity
+  parent: BaseFlag
+  id: NMFlagHanza2
+  name: Флаг Ганзы
+  description: Содружество станций Кольцевой линии.
+  components:
+  - type: Sprite
+    sprite: _Nedometro2033/Entities/Structures/Decoration/flags.rsi
+    state: Hanza2_flag
+
+- type: entity
+  parent: BaseFlag
+  id: NMFlagBandit
+  name: Флаг Бандитов
+  description: «Живи по понятиям - будешь жить»
+  components:
+  - type: Sprite
+    sprite: _Nedometro2033/Entities/Structures/Decoration/flags.rsi
+    state: Bandit_flag

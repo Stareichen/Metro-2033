@@ -1,3 +1,11 @@
 - type: lobbyBackground
   id: Stareichen
-  background: /Textures/LobbyScreens/Metro2033E.png
+  background: /Textures/LobbyScreens/Metro2033A.png
+
+- type: lobbyBackground
+  id: Stareichen2
+  background: /Textures/LobbyScreens/Metro2033B.png
+
+- type: lobbyBackground
+  id: Stareichen3
+  background: /Textures/LobbyScreens/Metro2033C.png

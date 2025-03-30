@@ -1,41 +1,47 @@
 - type: jukebox
-  id: FlipFlap
-  name: X-CEED - Flip Flap
+  id: Market2033
+  name: The Market - Metro 2033
   path:
-    path: /Audio/Jukebox/flip-flap.ogg
+    path: /Audio/Jukebox/Market.ogg
 
 - type: jukebox
-  id: Tintin
-  name: Jeroen Tel - Tintin on the Moon
+  id: Anarhy
+  name: Мать Анархия
   path:
-    path: /Audio/Jukebox/title3.ogg
+    path: /Audio/Jukebox/Anarhy.ogg
 
 - type: jukebox
-  id: Thunderdome
-  name: MashedByMachines - Sector 11
+  id: Dirgefortheplanet
+  name: Firelake - Dirge for the planet - Stalker
   path:
-    path: /Audio/Jukebox/sector11.ogg
+    path: /Audio/Jukebox/Firelake-Dirgefortheplanet.ogg
 
 - type: jukebox
-  id: Constellations
-  name: Qwertyquerty - Constellations
+  id: MalinaPalma
+  name: Малиновые Пальмы - Джайа
   path:
-    path: /Audio/Jukebox/constellations.ogg
+    path: /Audio/Jukebox/MalinaPalima.ogg
 
 - type: jukebox
-  id: Drifting
-  name: Qwertyquerty - Drifting
+  id: ClearSkyHolod
+  name: Бар Холода - Stalker
   path:
-    path: /Audio/Jukebox/drifting.ogg
+    path: /Audio/Jukebox/ClearSkyHolod.ogg
 
 - type: jukebox
-  id: starlight
-  name: Qwertyquerty - Starlight
+  id: StalkerBar100Rentgen
+  name: Бар 100 Рентген - Stalker
   path:
-    path: /Audio/Jukebox/starlight.ogg
+    path: /Audio/Jukebox/Bar100Rentgen.ogg
 
 - type: jukebox
-  id: sunset
-  name: PigeonBeans - Sunset
+  id: Riga2033
+  name: Riga - Metro 2033
   path:
-    path: /Audio/Jukebox/sunset.ogg
+    path: /Audio/Jukebox/Riga.ogg
+
+- type: jukebox
+  id: Propaganda2033
+  name: Propaganda - Metro 2033
+  path:
+    path: /Audio/Jukebox/propaganda.ogg
